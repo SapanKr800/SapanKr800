@@ -1,5 +1,5 @@
 
-![Design and Development](https://github.com/SapanKr800/SapanKr800/blob/main/cover-thompson.png)
+![Design and Development](https://github.com/SapanKr800/SapanKr800/blob/main/cover-thompson.png )
 
 # Sapan Kumar
 I'm Sapan from India, and I do content on Design and Development.
@@ -20,4 +20,4 @@ I'm Sapan from India, and I do content on Design and Development.
 * ⚛ React
 
 ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="https://github.com/SapanKr800/SapanKr800/blob/main/project.gif" width="512" >
