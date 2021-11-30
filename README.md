@@ -1,5 +1,5 @@
 
-![Design and Development](https://github.com/SapanKr800/SapanKr800/blob/master/cover-thompson.jpg)
+![Design and Development](https://github.com/SapanKr800/SapanKr800/blob/main/cover-thompson.png)
 
 # Sapan Kumar
 I'm Sapan from India, and I do content on Design and Development.
