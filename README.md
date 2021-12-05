@@ -2,7 +2,7 @@
 ![Design and Development](https://github.com/SapanKr800/SapanKr800/blob/main/cover-thompson.png )
 
 # Sapan Kumar
-I'm a Front-end developer with 1 years of experience in building responsive web pages.
+I'm a Front-end developer with 1 years of experience in building responsive web pages.<br>
 Seeking for new opportunities and challenges that will expand my skill set.
 
 ## About Me
