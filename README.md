@@ -2,9 +2,8 @@
 ![Design and Development](https://github.com/SapanKr800/SapanKr800/blob/main/cover-thompson.png )
 
 # Sapan Kumar
-I'm Sapan from India, and I do content on Design and Development.
- I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress.
- I also enjoy wireframing, ui, ux, and design in general. 
+I'm a Front-end developer with 1 years of experience in building responsive web pages.
+Seeking for new opportunities and challenges that will expand my skill set.
 
 ## About Me
 - 🔭 I’m currently working as Front-End Developer
